@@ -4,7 +4,7 @@
 This repo produces about NLP Tasks (Turkish)
 
 ## 👋🏻 Introduction
-Merhaba, bu proje Türkçe Doğal Dil İşleme notebooklarına katkı ve örnek amacıyla oluşturulmuş bir projedir. Proje'de kullanılan veri seti, bir chatbot'da sorulan ve alınan cevaplardan oluşmaktadır.
+Merhaba, bu proje Türkçe Doğal Dil İşleme notebooklarına katkı ve örnek amacıyla oluşturulmuş bir projedir. Proje'de kullanılan veri seti, bir prompt'dan alınan soru ve cevaplardan oluşmaktadır.
 
 Projede görebileceğiniz işlemler:
 - Veri yükleme
