@@ -3,6 +3,17 @@
 
 This repo produces about NLP Tasks (Turkish)
 
+## 👋🏻 Introduction
+Merhaba, bu proje Türkçe Doğal Dil İşleme notebooklarına katkı ve örnek amacıyla oluşturulmuş bir projedir. Proje'de kullanılan veri seti, bir chatbot'da sorulan ve alınan cevaplardan oluşmaktadır.
+
+Projede görebileceğiniz işlemler:
+- Veri yükleme
+- Veri ön işleme
+- Base-bert-uncased ve Turkish-gpt 2 ile yapılan metinler arası benzerlik ölçümü ve başarı oranları hesaplama
+- Tsne
+
+## 📜 Dataset Link
+[Data](https://huggingface.co/datasets/merve/turkish_instructions)
 
 ## 💬 Notebook Link
 
@@ -10,7 +21,6 @@ This repo produces about NLP Tasks (Turkish)
 ## 📄 License
 
 [Apache License 2.0](https://github.com/Zephyruss1/NLP-Similarity-Turkish/blob/main/LICENSE)
-
 
 ## 🧙🏼 Authors
 
